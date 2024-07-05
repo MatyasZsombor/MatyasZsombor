@@ -5,6 +5,6 @@
   </a>
 </div> <br>
 
-![MatyasZsombor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatyasZsomborh&custom_title=Activity%20Graph&days=50&hide_border=true&theme=gotham)
+![MatyasZsombor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatyasZsombor&custom_title=Activity%20Graph&days=50&hide_border=true&theme=gotham)
 
 <br/>  
