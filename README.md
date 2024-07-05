@@ -6,5 +6,5 @@
 </div> <br>
 
 ![MatyasZsombor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatyasZsombor&custom_title=Activity%20Graph&days=50&hide_border=true&theme=gotham)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatyasZsombor&show_icons=true&locale=en&layout=compact&theme=gotham" alt="MatyasZsombor" /></p>
 <br/>  
